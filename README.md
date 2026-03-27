@@ -102,4 +102,4 @@ Status:           Em aberto (13 dia(s) restante(s))
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome]** — conecte-se no [LinkedIn](https://linkedin.com/in/seu-perfil) ou veja outros projetos no meu GitHub.
+Desenvolvido por **Wellington Moreira ** — conecte-se no [LinkedIn]www.linkedin.com/in/wellingtonmoreira98 ou veja outros projetos no meu GitHub.
